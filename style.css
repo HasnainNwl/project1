@@ -1,0 +1,88 @@
+.login-container{
+    display: flex;
+    align-items: center;
+    width:100%;
+    justify-content: space-around;
+    
+}
+.section-logo{
+    max-width: o;
+  
+   
+
+}
+.logo{
+    width: 250px;
+    height: 50px;
+    margin-left: 25%;
+
+}
+.forget-password{
+    margin-left: 350px;
+}
+
+.man{
+    width:70%;
+    height: auto;
+    margin-left: 20%;
+    margin-top: 6%;
+}
+p{
+    color: rgb(122, 121, 121);
+    margin-left: 25%;
+
+}
+input{
+    width: 400px; 
+    padding: 15px;
+    height: auto;
+    margin-top: 20px;
+    border-radius: 25px;
+    margin-left:10%;
+    border: 1px solid #fff;
+    box-shadow: 2px 2px 4px #f8e5e5;
+    
+}
+input[type=text]:focus {
+    border: 1px solid #fff;
+}
+
+.section-man{
+    width: 50%;
+}
+.icon {
+    padding-left: 25px;
+    background: url("email.png") no-repeat left;
+    background-size: 20px;
+    background-position: 1%;
+    
+}  
+.icon2 {
+    padding-left: 25px;
+    background: url("password.png") no-repeat left;
+    background-position-x:1%;
+    background-size: 20px;
+    
+} 
+.signup{
+    margin-top: 10%;
+    margin-left: 150px;
+    
+}
+a{
+    color: rgb(145,223,70);
+    text-decoration: none;
+
+}
+button{
+    padding: 7px;
+    border-radius: 25px;
+    border: 1px solid hwb(0 100% 0%);
+    background-color: rgb(145,223,70);
+    color: white;
+    width: 150px;
+    margin-left:200px;
+    margin-top: 5%;
+    font-weight: 200;
+    font-size: larger;
+}
